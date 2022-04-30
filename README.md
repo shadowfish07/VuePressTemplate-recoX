@@ -1,6 +1,6 @@
 # VuePressTemplate-recoX
 
-![GitHub](https://img.shields.io/github/license/shadowfish07/VuePressTemplate-recoX)
+![GitHub](https://img.shields.io/github/license/shadowfish07/VuePressTemplate-recox)
 
 快速使用 VuePress！本模板集成了 VuePress 1.x 和 VuePress 主题 recoX，可以在它的基础上自由修改。
 
