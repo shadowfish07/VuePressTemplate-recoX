@@ -1,0 +1,17 @@
+{
+  "name": "vuepress-templates-reco-v1",
+  "version": "1.0.0",
+  "description": "使用VuePress 1.x + reco theme 1.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "shadowfish07",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-recox": "^1.0.0"
+  }
+}
