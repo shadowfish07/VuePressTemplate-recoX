@@ -8,4 +8,9 @@ module.exports = {
     // 博客配置
     blogConfig: {},
   },
+  locales: {
+    "/": {
+      lang: "zh-CN",
+    },
+  },
 };
